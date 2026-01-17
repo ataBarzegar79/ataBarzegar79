@@ -10,11 +10,11 @@
 ---
 
 ## 🚀 Ongoing Project: CycUp
-<div align="center">
+<div align="left">
   <img src="image-1.png" alt="CycUp" width="300"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge" alt="Status"/>
   <img src="https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge" alt="Platform"/>
   <img src="https://img.shields.io/badge/Impact-Sustainability-green?style=for-the-badge" alt="Impact"/>
