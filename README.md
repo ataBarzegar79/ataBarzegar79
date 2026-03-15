@@ -16,9 +16,7 @@
 </div>
 
 ![Award](https://img.shields.io/badge/2026_ICT_SHOWROOM-Winner_Positive_Social_Impact-gold?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge)
-![Impact](https://img.shields.io/badge/Impact-Sustainability-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In_Development-blue?style=for-the-badge)
 
 ### 🌍 About CycUp
 
